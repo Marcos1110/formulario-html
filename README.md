@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/7cbd5dce-ff69-418e-95d6-89b810adf900"/>
 
 ## 1. Introdução
-<p>Este projeto foi desenvolvido como parte de um curso de desenvolvimento web, sob a orientação do instrutor Matheus Battisti. Trata-se de um exemplo simples de um formulário web, criado para praticar habilidades básicas em HTML e CSS, com foco na estruturação de formulários e aplicação de estilos visuais básicos.</p>
+<p>Este projeto foi desenvolvido no curso Formação Front-End, orientado pelo instrutor Matheus Battisti. Trata-se de um exemplo simples de um formulário web, criado para praticar habilidades básicas em HTML e CSS, com foco na estruturação de formulários e aplicação de estilos visuais básicos.</p>
 
 ## 2. Tecnologias Utilizadas
 <div style="display: inline_block">
@@ -13,6 +13,5 @@
 
 ## 3. Preview
 Você pode ver o projeto completo clicando aqui -> <a href="https://formulario-html-css-flame.vercel.app/">Visualizar</a>
-
 
 ---
