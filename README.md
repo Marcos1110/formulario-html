@@ -12,7 +12,7 @@
 </div>
 
 ## 3. Preview
-Você pode ver o projeto completo aqui -> 
+Você pode ver o projeto completo clicando aqui -> <a href="https://formulario-html-css-flame.vercel.app/">Visualizar</a>
 
 
 ---
